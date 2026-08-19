@@ -95,7 +95,7 @@ function initMap() {
     }
   }).addTo(map);
 
-  fetch('/assets/geo/india.geojson')
+  fetch('./assets/geo/india.geojson')
     .then(function(res) { return res.json(); })
     .then(function(data) {
       geoJsonLayer.addData(data);
