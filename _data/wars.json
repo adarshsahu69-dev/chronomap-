@@ -1,0 +1,156 @@
+[
+  {
+    "id": "kalinga-war",
+    "name_en": "Kalinga War",
+    "name_hi": "कलिंग युद्ध",
+    "start": -261,
+    "end": -261,
+    "belligerent_ids": ["maurya"],
+    "region_ids": ["Odisha"],
+    "summary_en": "A devastating war fought by Emperor Ashoka against the state of Kalinga. The bloodshed led Ashoka to embrace Buddhism and renounce violence.",
+    "summary_hi": "सम्राट अशोक द्वारा कलिंग राज्य के खिलाफ लड़ा गया एक विनाशकारी युद्ध। रक्तपात के कारण अशोक ने बौद्ध धर्म में शरण लेने और हिंसा त्यागने का निर्णय लिया।"
+  },
+  {
+    "id": "hydaspes",
+    "name_en": "Battle of Hydaspes",
+    "name_hi": "हाइडस्पेस का युद्ध",
+    "start": -326,
+    "end": -326,
+    "belligerent_ids": ["maurya"],
+    "region_ids": ["Punjab", "Jammu & Kashmir"],
+    "summary_en": "Fought between Alexander the Great and King Porus of Paurava on the banks of the Jhelum River. Though a tactical victory for Alexander, it marked the limit of his eastward advance.",
+    "summary_hi": "ज helum नदी के किनारे अलेक्जेंडर महान और पौरव के राजा पोरस के बीच लड़ा गया। हालांकि अलेक्जेंडर की रणनीतिक जीत थी, यह उसकी पूर्व की ओर अग्रसर की सीमा बन गई।"
+  },
+  {
+    "id": "panipat-1",
+    "name_en": "First Battle of Panipat",
+    "name_hi": "पहली पानीपत की लड़ाई",
+    "start": 1526,
+    "end": 1526,
+    "belligerent_ids": ["mughal", "delhi-sultanate"],
+    "region_ids": ["Delhi", "Haryana", "Punjab"],
+    "summary_en": "Babur defeated Ibrahim Lodi, marking the beginning of Mughal rule in India.",
+    "summary_hi": "बाबर ने इब्राहीम लोदी को हराया, जिससे भारत में मुगल शासन की शुरुआत हुई।"
+  },
+  {
+    "id": "khanwa",
+    "name_en": "Battle of Khanwa",
+    "name_hi": "खानवा का युद्ध",
+    "start": 1527,
+    "end": 1527,
+    "belligerent_ids": ["mughal", "vijayanagara"],
+    "region_ids": ["Rajasthan", "Uttar Pradesh", "Madhya Pradesh"],
+    "summary_en": "Babur defeated the Rajput confederacy led by Rana Sanga, consolidating Mughal power in northern India.",
+    "summary_hi": "बाबर ने राणा संगा के नेतृत्व में राजपूत संधि को हराया, जिससे उत्तरी भारत में मुगल शक्ति को मजबूत हो गई।"
+  },
+  {
+    "id": "panipat-2",
+    "name_en": "Second Battle of Panipat",
+    "name_hi": "दूसरी पानीपत की लड़ाई",
+    "start": 1556,
+    "end": 1556,
+    "belligerent_ids": ["mughal", "delhi-sultanate"],
+    "region_ids": ["Delhi", "Haryana", "Punjab"],
+    "summary_en": "Akbar, at just thirteen, defeated the Afghan ruler Hemu, securing the Mughal throne.",
+    "summary_hi": "अकबर ने बस तेरह साल की उम्र में अफगान शासक हेमू को हराया, जिससे मुगल सिंहासन को सुरक्षित मिली।"
+  },
+  {
+    "id": "haldighati",
+    "name_en": "Battle of Haldighati",
+    "name_hi": "हल्दीघाटी का युद्ध",
+    "start": 1576,
+    "end": 1576,
+    "belligerent_ids": ["mughal", "maratha"],
+    "region_ids": ["Rajasthan"],
+    "summary_en": "Akbar's forces clashed with Maharana Pratap's army in a legendary battle that became a symbol of Rajput valor.",
+    "summary_hi": "अकबर की सेनाओं ने महाराणा प्रताप की सेना के साथ एक प्रसिद्ध युद्ध में टकराव किया जो राजपूत शौर्य का प्रतीक बन गया।"
+  },
+  {
+    "id": "talikota",
+    "name_en": "Battle of Talikota",
+    "name_hi": "तालीकोट का युद्ध",
+    "start": 1565,
+    "end": 1565,
+    "belligerent_ids": ["vijayanagara", "delhi-sultanate"],
+    "region_ids": ["Karnataka", "Telangana", "Andhra Pradesh", "Maharashtra"],
+    "summary_en": "A coalition of Deccan Sultanates defeated the Vijayanagara Empire, leading to the decline of its great capital Hampi.",
+    "summary_hi": "दक्षिण सल्तनतों की गठबंधन ने विजयनगर साम्राज्य को हराया, जिससे इसकी महान राजधानी हंपी का पतन हुआ।"
+  },
+  {
+    "id": "plassey",
+    "name_en": "Battle of Plassey",
+    "name_hi": "प्लासी का युद्ध",
+    "start": 1757,
+    "end": 1757,
+    "belligerent_ids": ["british"],
+    "region_ids": ["West Bengal", "Odisha", "Jharkhand", "Bihar"],
+    "summary_en": "The British East India Company defeated the Nawab of Bengal, marking the start of British political dominance in India.",
+    "summary_hi": "ब्रिटिश ईस्ट इंडिया कंपनी ने बंगाल के नवाब को हराया, जिससे भारत में ब्रिटिश राजनीतिक प्रभुत्व की शुरुआत हुई।"
+  },
+  {
+    "id": "anglo-mysore",
+    "name_en": "Anglo-Mysore Wars",
+    "name_hi": "आंगलो-मैसूर युद्ध",
+    "start": 1767,
+    "end": 1799,
+    "belligerent_ids": ["british", "mysore"],
+    "region_ids": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh", "Telangana", "Maharashtra", "Goa"],
+    "summary_en": "A series of four wars between the British East India Company and the Kingdom of Mysore that ended with Tipu Sultan's defeat.",
+    "summary_hi": "ब्रिटिश ईस्ट इंडिया कंपनी और मैसूर राज्य के बीच चार युद्धों की श्रृंखला जो तीपू सुल्तान की हार के साथ समाप्त हुई।"
+  },
+  {
+    "id": "panipat-3",
+    "name_en": "Third Battle of Panipat",
+    "name_hi": "तीसरी पानीपत की लड़ाई",
+    "start": 1761,
+    "end": 1761,
+    "belligerent_ids": ["maratha", "british"],
+    "region_ids": ["Haryana", "Delhi", "Punjab", "Uttar Pradesh"],
+    "summary_en": "A massive battle between the Marathas and Afghan forces led by Ahmad Shah Abdali that halted Maratha expansion northward.",
+    "summary_hi": "मराठों और अहमद शाह अब्दाली के नेतृत्व में अफगान बलों के बीच एक विशाल युद्ध जिसने मराठा के उत्तरी विस्तार को रोक दिया।"
+  },
+  {
+    "id": "anglo-maratha",
+    "name_en": "Anglo-Maratha Wars",
+    "name_hi": "आंगलो-मराठा युद्ध",
+    "start": 1775,
+    "end": 1818,
+    "belligerent_ids": ["british", "maratha"],
+    "region_ids": ["Maharashtra", "Karnataka", "Andhra Pradesh", "Tamil Nadu", "Madhya Pradesh", "Gujarat", "Rajasthan", "Uttar Pradesh", "Odisha", "Chhattisgarh"],
+    "summary_en": "Three wars that resulted in the British East India Company annexing Maratha territories and establishing supremacy over India.",
+    "summary_hi": "तीन युद्ध जिसके परिणामस्वरूप ब्रिटिश ईस्ट इंडिया कंपनी ने मराठा क्षेत्रों को विलय कर लिया और भारत पर श्रेष्ठता स्थापित की।"
+  },
+  {
+    "id": "anglo-sikh",
+    "name_en": "Anglo-Sikh Wars",
+    "name_hi": "आंगलो-सिख युद्ध",
+    "start": 1845,
+    "end": 1849,
+    "belligerent_ids": ["british", "sikh"],
+    "region_ids": ["Punjab", "Haryana", "Jammu & Kashmir", "Ladakh", "Himachal Pradesh"],
+    "summary_en": "Two wars that led to the annexation of the Sikh Empire by the British East India Company.",
+    "summary_hi": "दो युद्ध जिसके परिणामस्वरूप ब्रिटिश ईस्ट इंडिया कंपनी द्वारा सिख साम्राज्य का विलय हो गया।"
+  },
+  {
+    "id": "1857-rebellion",
+    "name_en": "Indian Rebellion of 1857",
+    "name_hi": "भारतीय विद्रोह 1857",
+    "start": 1857,
+    "end": 1857,
+    "belligerent_ids": ["british"],
+    "region_ids": ["Uttar Pradesh", "Delhi", "Haryana", "Bihar", "Madhya Pradesh", "Rajasthan"],
+    "summary_en": "A major uprising against British rule, also known as the First War of Indian Independence.",
+    "summary_hi": "ब्रिटिश शासन के खिलाफ एक बड़ा विद्रोह, जिसे भारत की पहली स्वतंत्रता संग्राम के रूप में भी जाना जाता है।"
+  },
+  {
+    "id": "kargil-war",
+    "name_en": "Kargil War",
+    "name_hi": "कर्गिल युद्ध",
+    "start": 1999,
+    "end": 1999,
+    "belligerent_ids": ["independent"],
+    "region_ids": ["Jammu & Kashmir", "Ladakh"],
+    "summary_en": "An armed conflict between India and Pakistan in the Kargil district of Kashmir that ended with India regaining control of its territory.",
+    "summary_hi": "कश्मीर के कारगिल जिले में भारत और पाकिस्तान के बीच एक सशस्त्र संघर्ष जिसके अंत में भारत ने अपने क्षेत्र पर फिर से नियंत्रण प्राप्त कर लिया।"
+  }
+]

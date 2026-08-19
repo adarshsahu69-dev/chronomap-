@@ -1,0 +1,27 @@
+---
+layout: default
+title: {{ page.title }}
+---
+
+<div class="list-page">
+  <h1>{{ page.title }}</h1>
+  <div class="entity-grid">
+    {% assign items = site.data[page.type] | sort: 'name_en' %}
+    {% for item in items %}
+      <div class="entity-card" style="border-left-color: {{ item.color | default: '#333' }};">
+        <h3>
+          {% if item.color %}
+            <span class="color-dot" style="background: {{ item.color }};"></span>
+          {% endif %}
+          <a href="{{ '/detail.html?type=' | append: page.type | append: '&id=' | append: item.id | relative_url }}">
+            {{ item.name_en }}
+          </a>
+        </h3>
+        <p class="entity-dates">{{ item.start }} – {{ item.end }}</p>
+        {% if item.summary_en %}
+          <p>{{ item.summary_en | truncate: 120 }}</p>
+        {% endif %}
+      </div>
+    {% endfor %}
+  </div>
+</div>

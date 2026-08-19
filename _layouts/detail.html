@@ -1,0 +1,17 @@
+---
+layout: default
+title: Detail
+---
+
+<script>
+  var CHRONOMAP_DATA = {
+    dynasties: {{ site.data.dynasties | jsonify }},
+    rulers: {{ site.data.rulers | jsonify }},
+    wars: {{ site.data.wars | jsonify }},
+    eras: {{ site.data.eras | jsonify }}
+  };
+</script>
+
+<div class="detail-page" id="detail-container">
+  <p data-i18n="detail_loading">Loading...</p>
+</div>

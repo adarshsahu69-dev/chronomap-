@@ -1,0 +1,12 @@
+[
+  { "year": -500, "label_en": "Ancient India", "label_hi": "प्राचीन भारत" },
+  { "year": -322, "label_en": "Maurya Rise", "label_hi": "मौर्य उदय" },
+  { "year": 0, "label_en": "Classical Age", "label_hi": "क्लासिकल युग" },
+  { "year": 320, "label_en": "Gupta Empire", "label_hi": "गुप्त साम्राज्य" },
+  { "year": 606, "label_en": "Harsha Empire", "label_hi": "हर्ष साम्राज्य" },
+  { "year": 1206, "label_en": "Delhi Sultanate", "label_hi": "दिल्ली सल्तनत" },
+  { "year": 1526, "label_en": "Mughal Empire", "label_hi": "मुगल साम्राज्य" },
+  { "year": 1674, "label_en": "Maratha Rise", "label_hi": "मराठा उदय" },
+  { "year": 1858, "label_en": "British Raj", "label_hi": "ब्रिटिश राज" },
+  { "year": 1947, "label_en": "Independence", "label_hi": "स्वतंत्रता" }
+]

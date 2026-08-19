@@ -1,0 +1,13 @@
+title: "Chronomap"
+description: "Interactive Historical Atlas of the Indian Subcontinent"
+baseurl: ""
+url: ""
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+markdown: kramdown
+
+plugins:
+  - jekyll-sitemap

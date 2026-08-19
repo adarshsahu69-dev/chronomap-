@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="home-page">
+  <div id="map"></div>
+
+  <div class="timeline-container">
+    <input type="range" id="year-slider" min="-500" max="2025" value="1200" step="1">
+    <div class="year-display" id="year-display">1200 CE</div>
+  </div>
+
+  <div class="side-panel" id="side-panel">
+    <h3 data-i18n="panel_title">Historical View</h3>
+    <div id="panel-content">
+      <p data-i18n="panel_hint">Move the slider to explore history.</p>
+    </div>
+  </div>
+</div>
+
+<script>
+  var CHRONOMAP_DATA = {
+    dynasties: {{ site.data.dynasties | jsonify }},
+    rulers: {{ site.data.rulers | jsonify }},
+    wars: {{ site.data.wars | jsonify }},
+    eras: {{ site.data.eras | jsonify }}
+  };
+</script>

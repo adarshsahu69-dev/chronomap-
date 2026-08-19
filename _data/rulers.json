@@ -1,0 +1,222 @@
+[
+  {
+    "id": "chandragupta-maurya",
+    "name_en": "Chandragupta Maurya",
+    "name_hi": "चंद्रगुप्त मौर्य",
+    "dynasty_id": "maurya",
+    "start": -340,
+    "end": -298,
+    "bio_en": "Founder of the Maurya Empire who overthrew the Nanda dynasty and established the first pan-Indian empire.",
+    "bio_hi": "मौर्य साम्राज्य के संस्थापक जिन्होंने नंद वंश को उखाड़ फेंका और पहला पैन-भारतीय साम्राज्य स्थापित किया।"
+  },
+  {
+    "id": "ashoka",
+    "name_en": "Ashoka",
+    "name_hi": "अशोक",
+    "dynasty_id": "maurya",
+    "start": -268,
+    "end": -232,
+    "bio_en": "The greatest Mauryan emperor, who converted to Buddhism after the Kalinga War and spread dharma across Asia.",
+    "bio_hi": "मौर्य साम्राज्य का महानतम सम्राट जिन्होंने कलिंग युद्ध के बाद बौद्ध धर्म में परिवर्तन किया और अशियाई महादेश में धर्म का प्रचार किया।"
+  },
+  {
+    "id": "gautamiputra-satakarni",
+    "name_en": "Gautamiputra Satakarni",
+    "name_hi": "गौतमीपुत्र सातकर्णी",
+    "dynasty_id": "satavahana",
+    "start": 78,
+    "end": 102,
+    "bio_en": "A powerful Satavahana ruler who revived the dynasty's glory and expanded its territory across the Deccan.",
+    "bio_hi": "एक शक्तिशाली सातवाहन शासक जिन्होंने वंश की महिमा को फिर से जीवित किया और दक्षिण महादेश में अपने क्षेत्र का विस्तार किया।"
+  },
+  {
+    "id": "kanishka",
+    "name_en": "Kanishka",
+    "name_hi": "कनिष्क",
+    "dynasty_id": "kushan",
+    "start": 127,
+    "end": 150,
+    "bio_en": "The Kushan emperor who convened the Fourth Buddhist Council and patronized Buddhism along the Silk Road.",
+    "bio_hi": "कुषाण सम्राट जिन्होंने चौथा बौद्ध कौन्सिल बुलाया और सिल्क रोड के साथ बौद्ध धर्म का पाठन किया।"
+  },
+  {
+    "id": "chandragupta-i",
+    "name_en": "Chandragupta I",
+    "name_hi": "चंद्रगुप्त प्रथम",
+    "dynasty_id": "gupta",
+    "start": 320,
+    "end": 335,
+    "bio_en": "The founder of the Gupta Empire who laid the foundation for India's golden age through strategic marriages and conquests.",
+    "bio_hi": "गुप्त साम्राज्य के संस्थापक जिन्होंने रणनीतिक विवाहों और विजयों के माध्यम से भारत के स्वर्ण युग की नींव रखी।"
+  },
+  {
+    "id": "samudragupta",
+    "name_en": "Samudragupta",
+    "name_hi": "समुद्रगुप्त",
+    "dynasty_id": "gupta",
+    "start": 335,
+    "end": 380,
+    "bio_en": "Called the 'Napoleon of India,' he expanded the Gupta Empire to its greatest extent through a series of brilliant military campaigns.",
+    "bio_hi": "'भारत के नेपोलियन' के रूप में जाने जाने वाले उन्होंने कई प्रभावशाली सैन्य अभियानों के माध्यम से गुप्त साम्राज्य को अपने सबसे बड़े विस्तार तक पहुंचाया।"
+  },
+  {
+    "id": "harshavardhana",
+    "name_en": "Harshavardhana",
+    "name_hi": "हर्षवर्धन",
+    "dynasty_id": "harsha",
+    "start": 606,
+    "end": 647,
+    "bio_en": "A powerful emperor who ruled much of northern India and was known for his religious tolerance and patronage of arts.",
+    "bio_hi": "एक शक्तिशाली सम्राट जिन्होंने उत्तरी भारत के अधिकांश भाग का शासन किया और अपनी धार्मिक सहनशीलता और कलाओं के पाठन के लिए जाने जाते थे।"
+  },
+  {
+    "id": "pulakeshin-ii",
+    "name_en": "Pulakeshin II",
+    "name_hi": "पुलकेशिन द्वितीय",
+    "dynasty_id": "chalukya",
+    "start": 610,
+    "end": 642,
+    "bio_en": "The greatest Chalukya emperor who defeated Harshavardhana and consolidated Chalukya power in the Deccan.",
+    "bio_hi": "सबसे महान चालुक्य सम्राट जिन्होंने हर्षवर्धन को हराया और दक्षिण में चालुक्य शक्ति को मजबूत किया।"
+  },
+  {
+    "id": "rajaraja-i",
+    "name_en": "Rajaraja I",
+    "name_hi": "राजराज चोल",
+    "dynasty_id": "chola",
+    "start": 985,
+    "end": 1014,
+    "bio_en": "The architect of the Chola Empire who expanded its reach across South India, Sri Lanka, and the Indian Ocean.",
+    "bio_hi": "चोल साम्राज्य के वास्तुकार जिन्होंने दक्षिण भारत, श्रीलंका और हिंद महासागर में इसकी पहुंच का विस्तार किया।"
+  },
+  {
+    "id": "rajendra-i",
+    "name_en": "Rajendra I",
+    "name_hi": "राजेन्द्र चोल",
+    "dynasty_id": "chola",
+    "start": 1014,
+    "end": 1044,
+    "bio_en": "Son of Rajaraja I, he further expanded the empire and established the city of Gangaikonda Cholapuram.",
+    "bio_hi": "राजराज प्रथम के पुत्र, उन्होंने साम्राज्य का और विस्तार किया और गंगाइकोण्ड चोलपुरम नगर की स्थापना की।"
+  },
+  {
+    "id": "qutb-ud-din-aibak",
+    "name_en": "Qutb al-Din Aibak",
+    "name_hi": "कुतुबुद्दीन ऐबक",
+    "dynasty_id": "delhi-sultanate",
+    "start": 1206,
+    "end": 1210,
+    "bio_en": "The first Sultan of Delhi who laid the foundations of the Delhi Sultanate after the death of Muhammad of Ghor.",
+    "bio_hi": "दिल्ली के पहले सुल्तान जिन्होंने मुहम्मद गोरी की मृत्यु के बाद दिल्ली सल्तनत की नींव रखी।"
+  },
+  {
+    "id": "alauddin-khilji",
+    "name_en": "Alauddin Khilji",
+    "name_hi": "अलाउद्दीन खिलजी",
+    "dynasty_id": "delhi-sultanate",
+    "start": 1296,
+    "end": 1316,
+    "bio_en": "The most powerful Sultan of Delhi who expanded the empire to its greatest extent and implemented major market reforms.",
+    "bio_hi": "दिल्ली के सबसे शक्तिशाली सुल्तान जिन्होंने साम्राज्य को उसके सबसे बड़े विस्तार तक पहुंचाया और प्रमुख बाज़ार सुधार लागू किए।"
+  },
+  {
+    "id": "krishnadevaraya",
+    "name_en": "Krishnadevaraya",
+    "name_hi": "कृष्णदेव राय",
+    "dynasty_id": "vijayanagara",
+    "start": 1509,
+    "end": 1529,
+    "bio_en": "The most celebrated ruler of Vijayanagara, under whom the empire reached its zenith in wealth, art, and literature.",
+    "bio_hi": "विजयनगर के सबसे प्रसिद्ध शासक जिनके शासन में साम्राज्य धन, कला और साहित्य में अपने चरम पर पहुंचा।"
+  },
+  {
+    "id": "babur",
+    "name_en": "Babur",
+    "name_hi": "बाबर",
+    "dynasty_id": "mughal",
+    "start": 1526,
+    "end": 1530,
+    "bio_en": "The founder of the Mughal Empire who won the First Battle of Panipat and established Mughal rule in India.",
+    "bio_hi": "मुगल साम्राज्य के संस्थापक जिन्होंने पहली पानीपत की लड़ाई जीती और भारत में मुगल शासन स्थापित किया।"
+  },
+  {
+    "id": "akbar",
+    "name_en": "Akbar",
+    "name_hi": "अकबर",
+    "dynasty_id": "mughal",
+    "start": 1556,
+    "end": 1605,
+    "bio_en": "The greatest Mughal emperor, known for his policy of religious tolerance and for consolidating a vast, multicultural empire.",
+    "bio_hi": "मुगल साम्राज्य का महानतम सम्राट, जो अपनी धार्मिक सहनशीलता नीति और एक विशाल, बहु-सांस्कृतिक साम्राज्य के संगठन के लिए जाना जाता है।"
+  },
+  {
+    "id": "aurangzeb",
+    "name_en": "Aurangzeb",
+    "name_hi": "औरंगजेब",
+    "dynasty_id": "mughal",
+    "start": 1658,
+    "end": 1707,
+    "bio_en": "The last great Mughal emperor, under whom the empire reached its territorial peak but began to show signs of decline.",
+    "bio_hi": "आखिरी महान मुगल सम्राट जिनके शासन में साम्राज्य अपने क्षेत्रीय शिखर पर पहुंचा लेकिन पतन के संकेत दिखाई देना शुरू हो गए।"
+  },
+  {
+    "id": "shivaji",
+    "name_en": "Shivaji",
+    "name_hi": "शिवाजी महाराज",
+    "dynasty_id": "maratha",
+    "start": 1674,
+    "end": 1680,
+    "bio_en": "The founder of the Maratha Empire who carved out a sovereign kingdom through brilliant guerrilla warfare against the Mughals.",
+    "bio_hi": "मराठा साम्राज्य के संस्थापक जिन्होंने मुगलों के खिलाफ बेहतरीन गुएरिल्ला युद्ध के माध्यम से एक संप्रभु राज्य बनाया।"
+  },
+  {
+    "id": "ranjit-singh",
+    "name_en": "Ranjit Singh",
+    "name_hi": "महाराजा रंजीत सिंह",
+    "dynasty_id": "sikh",
+    "start": 1801,
+    "end": 1839,
+    "bio_en": "The 'Lion of Punjab' who united the Sikh misls and founded the Sikh Empire, known for his secular and just rule.",
+    "bio_hi": "पंजाब का शेर जिन्होंने सिख मिसलों को एकीकृत किया और सिख साम्राज्य की स्थापना की, जो अपने धर्मनिरपेक्ष और न्यायपूर्ण शासन के लिए जाना जाता है।"
+  },
+  {
+    "id": "tipu-sultan",
+    "name_en": "Tipu Sultan",
+    "name_hi": "तीपू सुल्तान",
+    "dynasty_id": "mysore",
+    "start": 1782,
+    "end": 1799,
+    "bio_en": "The Tiger of Mysore who fought several wars against the British East India Company and pioneered rocket artillery.",
+    "bio_hi": "मैसूर का शेर जिन्होंने ब्रिटिश ईस्ट इंडिया कंपनी के खिलाफ कई युद्ध लड़े और रॉकेट आर्टिलेरी का अग्रणी काम किया।"
+  },
+  {
+    "id": "lord-mountbatten",
+    "name_en": "Lord Mountbatten",
+    "name_hi": "लॉड माउंटबेटन",
+    "dynasty_id": "british",
+    "start": 1947,
+    "end": 1947,
+    "bio_en": "The last Viceroy of British India who oversaw the transition to independence and the partition of the subcontinent.",
+    "bio_hi": "ब्रिटिश भारत के आखिरी वायसराय जिन्होंने स्वतंत्रता में परिवर्तन और उपमहाद्वीप के विभाजन की निगरानी की।"
+  },
+  {
+    "id": "nehru",
+    "name_en": "Jawaharlal Nehru",
+    "name_hi": "जवाहरलाल नेहरू",
+    "dynasty_id": "independent",
+    "start": 1947,
+    "end": 1964,
+    "bio_en": "India's first Prime Minister, a key architect of modern India who championed democracy, science, and non-alignment.",
+    "bio_hi": "भारत के पहले प्रधानमंत्री, आधुनिक भारत के प्रमुख वास्तुकार जिन्होंने लोकतंत्र, विज्ञान और गुटनिरपेक्षता का पाठन किया।"
+  },
+  {
+    "id": "indira-gandhi",
+    "name_en": "Indira Gandhi",
+    "name_hi": "इंदिरा गांधी",
+    "dynasty_id": "independent",
+    "start": 1966,
+    "end": 1984,
+    "bio_en": "India's first and only female Prime Minister, known for her strong leadership and the Green Revolution.",
+    "bio_hi": "भारत की पहली और एकमात्र महिला प्रधानमंत्री, जो अपने मजबूत नेतृत्व और हरित क्रांति के लिए जानी जाती थी।"
+  }
+]

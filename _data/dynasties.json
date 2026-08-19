@@ -1,0 +1,241 @@
+[
+  {
+    "id": "maurya",
+    "name_en": "Maurya Empire",
+    "name_hi": "मौर्य साम्राज्य",
+    "color": "#D32F2F",
+    "start": -322,
+    "end": -185,
+    "region_ids": [
+      "Bihar", "Jharkhand", "Uttar Pradesh", "Madhya Pradesh", "Chhattisgarh",
+      "Odisha", "West Bengal", "Rajasthan", "Gujarat", "Maharashtra", "Telangana",
+      "Andhra Pradesh", "Karnataka", "Kerala", "Tamil Nadu", "Haryana", "Delhi",
+      "Punjab", "Jammu & Kashmir", "Ladakh", "Himachal Pradesh", "Uttarakhand"
+    ],
+    "summary_en": "The Maurya Empire was the first empire to unify most of the Indian subcontinent under one ruler, reaching its peak under Ashoka.",
+    "summary_hi": "मौर्य साम्राज्य पहला साम्राज्य था जिसने भारतीय उपमहाद्वीप के अधिकांश भाग को एक ही शासक के नियंत्रण में एकीकृत किया।",
+    "ruler_ids": ["chandragupta-maurya", "ashoka"],
+    "war_ids": ["kalinga-war", "hydaspes"]
+  },
+  {
+    "id": "satavahana",
+    "name_en": "Satavahana Dynasty",
+    "name_hi": "सातवाहन वंश",
+    "color": "#1976D2",
+    "start": -230,
+    "end": 220,
+    "region_ids": ["Maharashtra", "Telangana", "Andhra Pradesh", "Karnataka", "Madhya Pradesh"],
+    "summary_en": "The Satavahanas were early patrons of art, literature, and trade, ruling the Deccan region for over four centuries.",
+    "summary_hi": "सातवाहन कला, साहित्य और व्यापार के प्रारंभिक पाठक थे, जिन्होंने दक्षिण के क्षेत्र को चार से अधिक सदियों तक शासित किया।",
+    "ruler_ids": ["gautamiputra-satakarni"],
+    "war_ids": []
+  },
+  {
+    "id": "kushan",
+    "name_en": "Kushan Empire",
+    "name_hi": "कुषाण साम्राज्य",
+    "color": "#388E3C",
+    "start": 60,
+    "end": 240,
+    "region_ids": [
+      "Punjab", "Haryana", "Rajasthan", "Jammu & Kashmir", "Ladakh",
+      "Himachal Pradesh", "Uttarakhand", "Delhi", "Uttar Pradesh", "Gujarat"
+    ],
+    "summary_en": "The Kushans controlled the Silk Road routes through northern India and were great patrons of Buddhism.",
+    "summary_hi": "कुषाणों ने उत्तरी भारत से होकर सिल्क रोड मार्गों का नियंत्रण किया और बौद्ध धर्म के महान पाठक थे।",
+    "ruler_ids": ["kanishka"],
+    "war_ids": []
+  },
+  {
+    "id": "gupta",
+    "name_en": "Gupta Empire",
+    "name_hi": "गुप्त साम्राज्य",
+    "color": "#F57C00",
+    "start": 320,
+    "end": 550,
+    "region_ids": [
+      "Bihar", "Jharkhand", "Uttar Pradesh", "Madhya Pradesh", "Chhattisgarh",
+      "Odisha", "West Bengal", "Rajasthan", "Gujarat", "Maharashtra", "Haryana", "Delhi"
+    ],
+    "summary_en": "The Gupta Empire is considered a golden age of India, with remarkable advances in science, mathematics, and the arts.",
+    "summary_hi": "गुप्त साम्राज्य को भारत का स्वर्ण युग माना जाता है, जिसमें विज्ञान, गणित और कलाओं में उत्कृष्ट प्रगति हुई।",
+    "ruler_ids": ["chandragupta-i", "samudragupta"],
+    "war_ids": []
+  },
+  {
+    "id": "harsha",
+    "name_en": "Harsha Empire",
+    "name_hi": "हर्ष साम्राज्य",
+    "color": "#7B1FA2",
+    "start": 606,
+    "end": 647,
+    "region_ids": [
+      "Uttar Pradesh", "Bihar", "Jharkhand", "West Bengal", "Madhya Pradesh",
+      "Haryana", "Delhi", "Rajasthan", "Gujarat"
+    ],
+    "summary_en": "Harshavardhana united much of northern India after the fall of the Guptas and was a patron of learning.",
+    "summary_hi": "हर्षवर्धन ने गुप्तों के पतन के बाद उत्तरी भारत के अधिकांश भाग को एकीकृत किया और सीख के पाठक थे।",
+    "ruler_ids": ["harshavardhana"],
+    "war_ids": []
+  },
+  {
+    "id": "chalukya",
+    "name_en": "Chalukya Dynasty",
+    "name_hi": "चालुक्य वंश",
+    "color": "#0097A7",
+    "start": 543,
+    "end": 753,
+    "region_ids": ["Karnataka", "Maharashtra", "Telangana", "Andhra Pradesh", "Madhya Pradesh"],
+    "summary_en": "The Chalukyas built magnificent temples and patronized a unique style of architecture in the Deccan.",
+    "summary_hi": "चालुक्यों ने भव्य मंदिर बनाए और दक्षिण में वास्तुकला की एक विशिष्ट शैली का पाठन किया।",
+    "ruler_ids": ["pulakeshin-ii"],
+    "war_ids": []
+  },
+  {
+    "id": "chola",
+    "name_en": "Chola Empire",
+    "name_hi": "चोल साम्राज्य",
+    "color": "#D81B60",
+    "start": 850,
+    "end": 1279,
+    "region_ids": ["Tamil Nadu", "Puducherry", "Kerala", "Andhra Pradesh", "Karnataka"],
+    "summary_en": "The Cholas were great naval powers who extended their influence across Southeast Asia and built iconic temples.",
+    "summary_hi": "चोल महान नौसेना शक्ति थे जिन्होंने अपना प्रभाव पूर्वी दक्षिण एशिया तक फैलाया और प्रतिष्ठित मंदिर बनाए।",
+    "ruler_ids": ["rajaraja-i", "rajendra-i"],
+    "war_ids": []
+  },
+  {
+    "id": "delhi-sultanate",
+    "name_en": "Delhi Sultanate",
+    "name_hi": "दिल्ली सल्तनत",
+    "color": "#5D4037",
+    "start": 1206,
+    "end": 1526,
+    "region_ids": [
+      "Delhi", "Uttar Pradesh", "Haryana", "Rajasthan", "Punjab", "Madhya Pradesh",
+      "Gujarat", "Bihar", "Jharkhand", "West Bengal"
+    ],
+    "summary_en": "The Delhi Sultanate ruled northern India for three centuries, blending Persian and Indian cultures.",
+    "summary_hi": "दिल्ली सल्तनत ने उत्तरी भारत को तीन सदियों तक शासित किया, जिसने फारसी और भारतीय संस्कृतियों को मिलाया।",
+    "ruler_ids": ["qutb-ud din-aibak", "alauddin-khilji"],
+    "war_ids": []
+  },
+  {
+    "id": "vijayanagara",
+    "name_en": "Vijayanagara Empire",
+    "name_hi": "विजयनगर साम्राज्य",
+    "color": "#455A64",
+    "start": 1336,
+    "end": 1646,
+    "region_ids": [
+      "Karnataka", "Andhra Pradesh", "Telangana", "Maharashtra", "Tamil Nadu",
+      "Kerala", "Madhya Pradesh", "Odisha"
+    ],
+    "summary_en": "The Vijayanagara Empire was a powerful South Indian state known for its wealth, architecture, and vibrant capital at Hampi.",
+    "summary_hi": "विजयनगर साम्राज्य एक शक्तिशाली दक्षिण भारतीय राज्य था जो अपनी धन, वास्तुकला और हंपी में सजी राजधानी के लिए जाना जाता है।",
+    "ruler_ids": ["krishnadevaraya"],
+    "war_ids": ["talikota"]
+  },
+  {
+    "id": "mughal",
+    "name_en": "Mughal Empire",
+    "name_hi": "मुगल साम्राज्य",
+    "color": "#C62828",
+    "start": 1526,
+    "end": 1857,
+    "region_ids": [
+      "Delhi", "Uttar Pradesh", "Haryana", "Rajasthan", "Punjab", "Madhya Pradesh",
+      "Gujarat", "Bihar", "Jharkhand", "West Bengal", "Odisha", "Maharashtra",
+      "Jammu & Kashmir", "Ladakh", "Himachal Pradesh", "Uttarakhand", "Assam"
+    ],
+    "summary_en": "The Mughals created one of the largest empires in Indian history, renowned for art, architecture, and religious tolerance.",
+    "summary_hi": "मुगलों ने भारत के इतिहास में सबसे बड़े साम्राज्यों में से एक बनाया, जो कला, वास्तुकला और धार्मिक सहनशीलता के लिए प्रसिद्ध है।",
+    "ruler_ids": ["babur", "akbar", "aurangzeb"],
+    "war_ids": ["panipat-1", "khanwa", "panipat-2", "haldighati"]
+  },
+  {
+    "id": "maratha",
+    "name_en": "Maratha Empire",
+    "name_hi": "मराठा साम्राज्य",
+    "color": "#FF8F00",
+    "start": 1674,
+    "end": 1818,
+    "region_ids": [
+      "Maharashtra", "Karnataka", "Telangana", "Andhra Pradesh", "Tamil Nadu",
+      "Kerala", "Madhya Pradesh", "Gujarat", "Rajasthan", "Uttar Pradesh",
+      "Odisha", "Chhattisgarh", "Goa"
+    ],
+    "summary_en": "The Marathas challenged Mughal authority and established a vast empire across western and central India.",
+    "summary_hi": "मराठों ने मुगल सत्ता की चुनौती दी और पश्चिमी और मध्य भारत में एक विशाल साम्राज्य स्थापित किया।",
+    "ruler_ids": ["shivaji"],
+    "war_ids": ["panipat-3", "anglo-maratha"]
+  },
+  {
+    "id": "sikh",
+    "name_en": "Sikh Empire",
+    "name_hi": "सिख साम्राज्य",
+    "color": "#2E7D32",
+    "start": 1799,
+    "end": 1849,
+    "region_ids": ["Punjab", "Haryana", "Himachal Pradesh", "Jammu & Kashmir", "Ladakh", "Delhi", "Rajasthan"],
+    "summary_en": "The Sikh Empire, founded by Maharaja Ranjit Singh, was a powerful state in the northwest of the subcontinent.",
+    "summary_hi": "महाराजा रंजीत सिंह द्वारा स्थापित सिख साम्राज्य उपमहाद्वीप के उत्तर-पश्चिम में एक शक्तिशाली राज्य था।",
+    "ruler_ids": ["ranjit-singh"],
+    "war_ids": ["anglo-sikh"]
+  },
+  {
+    "id": "mysore",
+    "name_en": "Kingdom of Mysore",
+    "name_hi": "मैसूर राज्य",
+    "color": "#6A1B9A",
+    "start": 1761,
+    "end": 1799,
+    "region_ids": ["Karnataka", "Tamil Nadu", "Kerala", "Andhra Pradesh", "Telangana", "Maharashtra", "Goa"],
+    "summary_en": "Under Hyder Ali and Tipu Sultan, Mysore became a formidable military power that resisted British expansion.",
+    "summary_hi": "हैदर अली और तीपू सुल्तान के शासन में, मैसूर एक भयानक सैन्य शक्ति बना जिसने ब्रिटिश विस्तार का विरोध किया।",
+    "ruler_ids": ["tipu-sultan"],
+    "war_ids": ["anglo-mysore"]
+  },
+  {
+    "id": "british",
+    "name_en": "British Raj",
+    "name_hi": "ब्रिटिश राज",
+    "color": "#1565C0",
+    "start": 1858,
+    "end": 1947,
+    "region_ids": [
+      "Andaman & Nicobar", "Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar",
+      "Chandigarh", "Chhattisgarh", "Dadra and Nagar Haveli and Daman and Diu",
+      "Delhi", "Goa", "Gujarat", "Haryana", "Himachal Pradesh", "Jammu & Kashmir",
+      "Jharkhand", "Karnataka", "Kerala", "Ladakh", "Lakshadweep", "Madhya Pradesh",
+      "Maharashtra", "Manipur", "Meghalaya", "Mizoram", "Nagaland", "Odisha",
+      "Puducherry", "Punjab", "Rajasthan", "Sikkim", "Tamil Nadu", "Telangana",
+      "Tripura", "Uttar Pradesh", "Uttarakhand", "West Bengal"
+    ],
+    "summary_en": "The British Raj was the period of British crown rule over the Indian subcontinent from 1858 to 1947.",
+    "summary_hi": "ब्रिटिश राज भारतीय उपमहाद्वीप पर 1858 से 1947 तक ब्रिटिश क्राउन शासन का समय था।",
+    "ruler_ids": ["lord-mountbatten"],
+    "war_ids": ["1857-rebellion"]
+  },
+  {
+    "id": "independent",
+    "name_en": "Independent India",
+    "name_hi": "स्वतंत्र भारत",
+    "color": "#FFC107",
+    "start": 1947,
+    "end": 2026,
+    "region_ids": [
+      "Andaman & Nicobar", "Andhra Pradesh", "Arunachal Pradesh", "Assam", "Bihar",
+      "Chandigarh", "Chhattisgarh", "Dadra and Nagar Haveli and Daman and Diu",
+      "Delhi", "Goa", "Gujarat", "Haryana", "Himachal Pradesh", "Jammu & Kashmir",
+      "Jharkhand", "Karnataka", "Kerala", "Ladakh", "Lakshadweep", "Madhya Pradesh",
+      "Maharashtra", "Manipur", "Meghalaya", "Mizoram", "Nagaland", "Odisha",
+      "Puducherry", "Punjab", "Rajasthan", "Sikkim", "Tamil Nadu", "Telangana",
+      "Tripura", "Uttar Pradesh", "Uttarakhand", "West Bengal"
+    ],
+    "summary_en": "After gaining independence in 1947, India emerged as the world's largest democracy with a diverse and rich cultural heritage.",
+    "summary_hi": "1947 में स्वतंत्रता प्राप्त करने के बाद, भारत विविध और समृद्ध सांस्कृतिक विरासत के साथ दुनिया की सबसे बड़ी लोकतंत्र के रूप में उभरा।",
+    "ruler_ids": ["nehru", "indira-gandhi"],
+    "war_ids": ["kargil-war"]
+  }
+]
